@@ -27,11 +27,17 @@ You'll find:
 
 ## 🔍 Patterns I'm Focusing On (6-Month Plan)
 
-| Month | Pattern Focus                              |
-|-------|--------------------------------------------|
-| 1     | Sliding Window, Two Pointers, Hashmaps     |
-| 2     | Trees, Graphs, Recursion, Heaps            |
-| 3     | DP, Union-Find, Mock Practice & Revision   |
+| Month | Pattern                          | Status   |
+|-------|----------------------------------|----------|
+| 1️⃣    | Sliding Window                   | ✅ In Progress |
+| 1️⃣    | Two Pointers                     | ⏳ Starting Soon |
+| 1️⃣    | Hashmaps / Prefix Sums           | 🔜 Queued |
+| 1️⃣    | Binary Search                    | 🔜 Queued |
+| 2️⃣    | Trees, Graphs (DFS/BFS)          | 🔒 Upcoming |
+| 2️⃣    | Recursion + Backtracking         | 🔒 Upcoming |
+| 2️⃣    | Heaps / Priority Queues          | 🔒 Upcoming |
+| 3️⃣    | Dynamic Programming              | 🔒 Later |
+| 3️⃣    | Union-Find (DSU)                 | 🔒 Later |
 
 > Each pattern is explored through ~10–15 problems from LeetCode and Codeforces.
 
