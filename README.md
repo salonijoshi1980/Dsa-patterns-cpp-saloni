@@ -1,1 +1,77 @@
-# Dsa-patterns-cpp-saloni
+# 🧠 DSA Patterns in C++ – Saloni's Problem Solving Journey
+
+Welcome to my **personal learning journey** through Data Structures and Algorithms (DSA) in C++ 🚀.  
+This repository is a space where I document my understanding, mistakes, breakthroughs, and patterns that shape my thinking — not for job interviews, but for **sharpening my problem-solving ability**, improving my **cognitive discipline**, and **stimulating my personality and mind**.
+
+---
+
+## 📌 Why This Repository?
+
+I created this repository:
+- To build a consistent **problem-solving mindset** 🧩
+- To **track my daily learning and pattern-solving progress**
+- To **understand core DSA patterns** deeply rather than rushing to "complete DSA"
+- To **write, reflect, and improve** through code and notes
+- To keep a **public record of my growth** as a problem solver, not just a coder
+
+---
+
+## 🗂️ What's Inside?
+
+You'll find:
+- 📚 **Pattern-based folders** like Sliding Window, Two Pointers, Binary Search, etc.
+- 📝 Well-commented C++ solutions (brute + optimized when possible)
+- 🌱 Rough notes and logs where I record how I felt, what I learned, and how I struggled
+
+---
+
+## 🔍 Patterns I'm Focusing On (6-Month Plan)
+
+| Month | Pattern Focus                              |
+|-------|--------------------------------------------|
+| 1     | Sliding Window, Two Pointers, Hashmaps     |
+| 2     | Trees, Graphs, Recursion, Heaps            |
+| 3     | DP, Union-Find, Mock Practice & Revision   |
+
+> Each pattern is explored through ~10–15 problems from LeetCode and Codeforces.
+
+---
+
+## 💭 My Belief
+
+This repo is not about how fast I can finish DSA.  
+It's about:
+- Slowing down to think deeply
+- Writing intentionally
+- Solving with curiosity
+- **Letting my silence speak** through code — just like WhisperBook
+
+---
+
+## 🛠️ Tools & Platforms
+
+- Language: `C++`
+- Platforms: [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com)
+
+---
+
+## 📖 How to Use This Repo (if you're a learner too)
+
+1. Pick a pattern (e.g., Sliding Window)
+2. Open the folder and read comments + solution
+3. Try solving first by yourself (I started with brute force!)
+4. Reflect — what confused you? what clicked?
+
+---
+
+## 🌟 Motivation
+
+I believe DSA isn't just for job interviews —  
+It's for **training your mind**, for **becoming sharp**, and for **building discipline** when life feels chaotic.
+
+---
+
+### 📌 You’re welcome to follow my journey or even contribute a friendly tip or problem if you’re learning too. 💙
+
+---
+
