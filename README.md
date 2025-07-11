@@ -5,6 +5,7 @@ This repository isn't just about solving problems — it's a space where I docum
 
 I started this repository to keep myself accountable, record my progress, and grow every single day.
 
+---
 
 ## ✨ Why I Built This Repo
 
@@ -82,7 +83,7 @@ It's for **training your mind**, for **becoming sharp**, and for **building disc
 
 ---
 
-### 📌 You’re welcome to follow my journey or even contribute a friendly tip or problem if you’re learning too. 💙
+## 📌 Feel Free to Explore :  
+> You’re welcome to follow my journey or even contribute a friendly tip or problem,If you’re also learning DSA, feel free to fork this, use the templates, or just browse my progress for inspiration.
 
----
-
+Let’s grow one pattern at a time.
