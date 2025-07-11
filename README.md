@@ -1,8 +1,9 @@
 # 🧠 DSA Patterns in C++ – Saloni's Problem Solving Journey
 
-Welcome to my **personal learning journey** through Data Structures and Algorithms (DSA) in C++ 🚀.  
-This repository is a space where I document my understanding, mistakes, breakthroughs, and patterns that shape my thinking — not for job interviews, but for **sharpening my problem-solving ability**, improving my **cognitive discipline**, and **stimulating my personality and mind**.
+Welcome to my **personal learning journey** through mastering Data Structures and Algorithms (DSA) in C++ 🚀.  
+This repository isn't just about solving problems — it's a space where I document my understanding, mistakes, breakthroughs, and patterns that shape my thinking, improving my **cognitive discipline**, and **stimulating my personality and mind**. It's about understanding the patterns behind them and shaping a sharp, logical mind.
 
+I started this repository to keep myself accountable, record my progress, and grow every single day.
 
 
 ## ✨ Why I Built This Repo
